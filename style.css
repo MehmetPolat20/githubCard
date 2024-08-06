@@ -19,6 +19,15 @@ body {
   margin-top: 2rem;
   background-color: #2b2853;
   height: calc(100vh -50px);
+
+  background-color: red;
+  background-image: linear-gradient(
+    to right,
+    rgb(9, 7, 97),
+    #ccb09b,
+    rgb(128, 128, 64),
+    rgb(52, 197, 52)
+  );
 }
 
 .user-form {
